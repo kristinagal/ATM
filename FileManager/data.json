@@ -1,0 +1,112 @@
+{
+  "Cards": [
+    {
+      "CardNumber": "1234567890",
+      "Pin": "1234",
+      "Balance": 5940.00,
+      "Transactions": [
+        {
+          "Date": "2024-07-29T12:00:00",
+          "TransactionType": null,
+          "Amount": 1000.00
+        },
+        {
+          "Date": "2024-07-30T09:30:00",
+          "TransactionType": null,
+          "Amount": 500.00
+        },
+        {
+          "Date": "2024-07-30T19:52:48.0829555+03:00",
+          "TransactionType": null,
+          "Amount": 85.0
+        },
+        {
+          "Date": "2024-07-30T19:53:08.9551814+03:00",
+          "TransactionType": null,
+          "Amount": 10.0
+        },
+        {
+          "Date": "2024-07-30T20:10:11.2660193+03:00",
+          "TransactionType": null,
+          "Amount": 120.0
+        },
+        {
+          "Date": "2024-07-30T20:10:27.2135191+03:00",
+          "TransactionType": null,
+          "Amount": 885.0
+        },
+        {
+          "Date": "2024-07-30T20:21:03.5635212+03:00",
+          "TransactionType": null,
+          "Amount": 10.0
+        },
+        {
+          "Date": "2024-07-30T20:27:35.2097484+03:00",
+          "TransactionType": null,
+          "Amount": 185.0
+        },
+        {
+          "Date": "2024-08-01T19:02:15.7400606+03:00",
+          "TransactionType": "Cash In",
+          "Amount": 80.0
+        },
+        {
+          "Date": "2024-08-01T19:03:31.1741229+03:00",
+          "TransactionType": "Cash Out",
+          "Amount": 25.0
+        },
+        {
+          "Date": "2024-08-01T19:03:45.9849362+03:00",
+          "TransactionType": "Cash Out",
+          "Amount": 115.0
+        },
+        {
+          "Date": "2024-08-01T19:03:52.3556727+03:00",
+          "TransactionType": "Cash Out",
+          "Amount": 5.0
+        },
+        {
+          "Date": "2024-08-01T19:04:02.3332887+03:00",
+          "TransactionType": "Cash Out",
+          "Amount": 5.0
+        },
+        {
+          "Date": "2024-08-01T19:04:32.8361192+03:00",
+          "TransactionType": "Cash Out",
+          "Amount": 5.0
+        },
+        {
+          "Date": "2024-08-01T19:48:28.6315207+03:00",
+          "TransactionType": "Cash In",
+          "Amount": 5.0
+        },
+        {
+          "Date": "2024-08-01T19:48:34.906164+03:00",
+          "TransactionType": "Cash Out",
+          "Amount": 5.0
+        }
+      ]
+    },
+    {
+      "CardNumber": "0987654321",
+      "Pin": "4321",
+      "Balance": 1000.00,
+      "Transactions": [
+        {
+          "Date": "2024-07-30T10:00:00",
+          "TransactionType": null,
+          "Amount": 200.00
+        }
+      ]
+    }
+  ],
+  "BillDenominationCounts": {
+    "5": 2,
+    "10": 98,
+    "20": 100,
+    "50": 54,
+    "100": 18,
+    "200": 11,
+    "500": 6
+  }
+}
